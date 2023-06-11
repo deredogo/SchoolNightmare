@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2771beb6408a29c47a8929f545b297b1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pieces NFI
+  fontNames:
+  - Pieces NFI
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 98989d438fdfcbe40a8924dc9a143b6b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
