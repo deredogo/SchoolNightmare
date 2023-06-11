@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Gun">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Gun.AmmoType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Gun\Gun.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>GEUAEABBkCEABxAAAAgcACAAMFAAQAAACwAAAAAAACA=</HashCode>
+      <FileName>Assets\Scripts\Gun\Gun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GetGun">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQkAABACAAABAAAAAAAQAAAEBEAAAAAAAAAQAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Objects\GetGun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlashLight">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAQAAgCAAAAAAAAAAAQAEAAAAAAAAAACAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Gun\FlashLight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyAI">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAgEKACgQAAICAAACAAAHAAAAAAAQAAAAABgAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy\EnemyAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyHealth">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAEAACAAAAAgAAAAAAAAAAAAAAAAAAAACAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Enemy\EnemyHealth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GenerateEnemies">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACIAAAAAIAAgAAAAAAEAAIAAAAABAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy\GenerateEnemies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerHealth">
+    <Position X="9.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAIACgBgEAIAEBAAAAAABAkAAAAAAAASAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Player\PlayerHealth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerRay">
+    <Position X="11.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAgAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Player\PlayerRay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LockedDoor">
+    <Position X="10" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAACAAAAAAAEIEQACAEAIAAAAAAQBAQQAYAAA=</HashCode>
+      <FileName>Assets\Scripts\Door\LockedDoor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoorController">
+    <Position X="15.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAACAAAAAAAAAAQACAEAIAAAAAAQAAQAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Door\DoorController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClosedDoor">
+    <Position X="13.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAEAAQAAAEAIAAAAAAAQAQQAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Door\ClosedDoor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GetKey">
+    <Position X="11.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAACGAAAAAAAAAEQAAAEgACAIAAAAAAAQAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Objects\GetKey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paper">
+    <Position X="7.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAACAAAABAAAAAAAAAAAAAAIAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Objects\Paper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Medkit">
+    <Position X="3.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAACAAAAAAAAAAQCAAEAAAAACBAAAAQAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Objects\Medkit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GetAmmo">
+    <Position X="5.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAABAAAAAAAABAAAAQQAAEAgAAAAAAAAAQAAwAAA=</HashCode>
+      <FileName>Assets\Scripts\Objects\GetAmmo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
